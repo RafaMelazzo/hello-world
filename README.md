@@ -1,6 +1,4 @@
 # hello-world
 My first repository.
 
-I've just started wuth GitHub :)
-
-I'm a frontend web developer with touches on backend knowledge
+I'm a frontend web developer with touches on backend knowledge. I've just started with GitHub :)
